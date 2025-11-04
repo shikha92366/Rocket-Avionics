@@ -3,9 +3,11 @@
 <h3 align="center">🛰️ Developed by <b>Team Sudarshan</b> | Under the <b>IN-SPACe Student Rocketry Initiative</b></h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/mCRJDo24UvJMA/giphy.gif" width="130px" alt="Rocket Launch Animation">
+  <img src="https://github.com/user-attachments/assets/7ec7eea1-942c-493a-ada1-f2d01e6b31af" width="400" />
 </p>
-![avionics_assembly](https://github.com/user-attachments/assets/11c89624-1df6-48f8-9244-b53ba96dbf42?raw=true)
+
+
+
 
 
 <p align="center">
