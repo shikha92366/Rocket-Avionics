@@ -3,7 +3,7 @@
 <h3 align="center">🛰️ Developed by <b>Team Sudarshan</b> | Under the <b>IN-SPACe Student Rocketry Initiative</b></h3>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/7ec7eea1-942c-493a-ada1-f2d01e6b31af" width="400" />
+  <img src="https://github.com/user-attachments/assets/7ec7eea1-942c-493a-ada1-f2d01e6b31af" width="600" />
 </p>
 
 
