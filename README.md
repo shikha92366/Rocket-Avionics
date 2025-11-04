@@ -1,87 +1,128 @@
 <!-- HEADER -->
-<h1 align="center">🚀✨ Rocketry Avionics System ✨🚀</h1>
-<h3 align="center">🛰️ Developed by <b>Team Sudarshan</b> | Under the <b>IN-SPACe Student Rocketry Initiative</b></h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=100&duration=4000&lines=Rocket+Avionics+System+🚀" />
+</h1>
+
+<h3 align="center">🛰️ <b>Team Sudarshan</b> || <b>IN-SPACe Rocket Competition</b></h3>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/7ec7eea1-942c-493a-ada1-f2d01e6b31af" width="600" />
+  <img src="https://github.com/user-attachments/assets/243cc12c-3af6-42d1-a547-a28f60496a19" width="400" alt="Rocket Avionics System PCB"/>
 </p>
 
 
-
-
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Platform-Raspberry%20Pi%20Pico%202-orange?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Designed%20with-EasyEDA-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Communication-XBee%203%20Pro%20%7C%20SIM800L-lightgreen?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Category-Rocketry%20Avionics-red?style=for-the-badge">
-</p>
-
----
-
-## 🌍 Overview  
-
-The **Rocket Avionics System** is a compact, high-performance onboard electronics suite designed to power **student and experimental rockets**.  
-Developed by **Team Sudarshan** under the **IN-SPACe initiative**, this system acts as the **central intelligence** of the rocket — seamlessly managing **data acquisition, telemetry, navigation, and event control** with precision and reliability.  
-
-Engineered in **EasyEDA**, the design merges **microcontrollers, sensors, communication, and power management** into a single optimized PCB for real-world aerospace testing.
-
-<p align="center">
-  <img src="https://media.giphy.com/media/QB0L2Ap0NfjWv1eT8r/giphy.gif" width="250px" alt="Rocket Animation">
+  <a href="#"><img src="https://img.shields.io/badge/Platform-Raspberry%20Pi%20Pico%202-orange?style=for-the-badge"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Designed%20with-EasyEDA-blue?style=for-the-badge"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Communication-XBee%203%20Pro%20%7C%20SIM800L-lightgreen?style=for-the-badge"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Category-Rocketry%20Avionics-red?style=for-the-badge"></a>
 </p>
 
 ---
 
-## ⚙️ Core Architecture  
+We designed the **Rocket Avionics System** as a compact and reliable onboard electronics suite for our rocket, **Trishul**.  
+It manages real-time telemetry, navigation, and event control — acting as the core intelligence that powers every stage of flight.
 
-### 🧠 Main Controllers  
-- **Raspberry Pi Pico 2** – Primary flight computer executing mission logic and control algorithms  
-- **Arduino Nano 33 BLE Sense** – Dedicated co-processor for sensor interfacing and data preprocessing  
 
 ---
 
-### 📡 Communication & Navigation  
-- **XBee 3 Pro** → Short-range telemetry and GCS communication  
-- **SIM800L GSM** → Long-range data uplink for mission updates  
-- **NavIC GPS** → Real-time positional and timing accuracy for flight tracking  
+## ⚙️ Core Features
+
+- **🧠 Dual-Controller Architecture:**  
+  Combines Raspberry Pi Pico 2 (flight control) and Arduino Nano 33 BLE Sense (sensor fusion).  
+
+- **📡 Communication Links:**  
+  XBee 3 Pro for short-range telemetry and Quectel EC200U CN for 4G-based backup communication.  
+
+- **🛰️ NavIC GPS Integration:**  
+  Ensures precise location tracking using India’s indigenous satellite system.  
+
+- **📊 Multi-Sensor Suite:**  
+  Includes IMU (BNO085), BMP390 barometer, INA219 power sensor, MAX31856 thermocouple, and DS3231 RTC.  
+
+- **💾 Data Logging:**  
+  SD Card support for mission-critical data storage and redundancy.  
+
+- **🔋 Power Management:**  
+  Dual voltage regulation (5V / 3.3V) with over-current protection and MOSFET-based event triggering.  
 
 ---
 
-### 📊 Sensor Suite  
-| Sensor | Function |
-|---------|-----------|
-| **BNO085 IMU** | Orientation and motion tracking |
-| **BMP390** | Barometric pressure and altitude measurement |
-| **INA219** | Power monitoring (voltage & current) |
-| **MAX31856** | Thermocouple-based temperature sensing |
-| **DS3231 RTC** | Precise real-time clock for timestamping |
-| **SD Card Module** | Reliable onboard data logging |
+## 🧩 Components Used
+
+| Component | Function |
+|------------|-----------|
+| Raspberry Pi Pico 2 | Primary flight computer |
+| Arduino Nano 33 BLE Sense | Secondary Flight Controller |
+| XBee 3 Pro | RF telemetry communication |
+| Quectel EC200U CN 4G | Sends location after landing |
+| BNO085 IMU | Orientation sensing |
+| BMP390 | Altitude and barometric pressure |
+| INA219 | Power monitoring |
+| MAX31856 | Temperature measurement |
+| DS3231 | Real-time clock |
+| SD Card Module | Data logging |
+| Li-Po Battery | Power source |
+| MOSFET/Relay Board | Pyro & event control |
+
+---
+
+## 🛠️ System Overview  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="230px" alt="Data Flow Animation">
+  <img src="https://github.com/user-attachments/assets/02c55ac8-49f7-4923-b85f-099acecf7516" width="1000" alt="System Diagram">
+</p>
+
+**Flight Functions:**
+1. Sensor data acquisition  
+2. Real-time telemetry transmission  
+3. Event triggering (parachute, separation, etc.)  
+4. Power and thermal management  
+5. Mission data recording  
+
+---
+## 🛠️ Working
+
+Video - 
+
+schematic
+
+pcb layout
+
+
+
+---
+## ⚡ Power and Event Control  
+
+- **Input:** 7.4V Li-Po battery  
+- **Output:** 5V and 3.3V regulated lines  
+- **Control:** MOSFET/Relay-based event channels  
+- **Indicators:** LEDs and buzzer feedback for system status  
+
+---
+
+## 💡 Key Highlights
+
+- Modular and lightweight PCB design  
+- Dual-MCU architecture for fault tolerance  
+- NavIC GPS and dual telemetry support  
+- Real-time logging and power monitoring  
+- Designed & simulated entirely in **EasyEDA**
+
+---
+
+## 👨‍🚀 Developed By
+
+**Team Sudarshan**  
+- Shikha
+
+<p align="center">
+  <a href="https://inspace.gov.in/" target="_blank">
+    <img src="https://img.shields.io/badge/Supported%20by-IN--SPACe-blue?style=for-the-badge">
+  </a>
 </p>
 
 ---
 
-## 🔋 Power & Event Control  
-
-- **Power Input:** 7.4V Li-Po Battery  
-- **Regulated Outputs:** 5V & 3.3V for stable operation  
-- **Relays & MOSFETs:** Safe triggering of pyro/separation events  
-- **LED Indicators & Buzzer:** Instant system feedback for flight status  
-
-<p align="center">
-  <img src="https://media.giphy.com/media/fAnEC88LccN7a/giphy.gif" width="230px" alt="Power Animation">
-</p>
-
----
-
-## 🧩 Highlights  
-✅ Compact & modular PCB design  
-✅ Real-time telemetry and data logging  
-✅ Dual-microcontroller redundancy  
-✅ Fully NavIC-compatible for Indian aerospace research  
-✅ Designed & simulated in EasyEDA for manufacturing precision  
-
----
-
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Innovation+in+Every+Flight+🚀;Bye✨" />
+</h1>
