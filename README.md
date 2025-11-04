@@ -5,7 +5,7 @@
 <p align="center">
   <img src="https://media.giphy.com/media/mCRJDo24UvJMA/giphy.gif" width="130px" alt="Rocket Launch Animation">
 </p>
-![avionics_assembly](https://github.com/user-attachments/assets/11c89624-1df6-48f8-9244-b53ba96dbf42)
+![avionics_assembly](https://github.com/user-attachments/assets/11c89624-1df6-48f8-9244-b53ba96dbf42?raw=true)
 
 
 <p align="center">
