@@ -84,7 +84,14 @@ It manages real-time telemetry, navigation, and event control — acting as the 
 
 Video - 
 
-schematic
+schematic -
+
+File 
+<a href="https://github.com/shikha92366/Rocket-Avionics/tree/main/Easy%20Eda%20Schematic%20Layout" target="_blank">
+  <button style="background-color:#4CAF50;color:white;padding:10px 20px;border:none;border-radius:4px;font-size:16px;">
+    View Schematic Layout (EasyEDA)
+  </button>
+</a>
 
 pcb layout
 
