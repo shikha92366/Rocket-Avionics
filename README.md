@@ -29,7 +29,13 @@ We designed the **Rocket Avionics System** as a compact and reliable onboard ele
 It manages real-time telemetry, navigation, and event control — acting as the core intelligence that powers every stage of flight.
 
 ---
+🏆 **Achievement:**  
+The rocket achieved **2nd place in the competition**, giving us valuable learning and validation for our avionics architecture.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8502d17d-6f14-46ee-b4fa-d2a27601db45" width="400" alt="PCB Layout">
+</p>
 
+---
 ## ⚙️ Core Features
 
 - **🧠 Dual-Controller Architecture:**  
