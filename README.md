@@ -151,7 +151,7 @@ The rocket achieved **2nd place in the competition**, giving us valuable learnin
 - NavIC GPS support  
 - Designed entirely in **EasyEDA**  
 
----
+----
 
 ## 👨‍🚀 Developed By
 
