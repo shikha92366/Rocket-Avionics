@@ -81,7 +81,7 @@ It manages real-time telemetry, navigation, and event control — acting as the 
 
 ## 🛠️ Working
 
-###✅ Video Demonstration</h3>
+### ✅ Video Demonstration
 
 <table align="center">
   <tr>
@@ -98,27 +98,28 @@ It manages real-time telemetry, navigation, and event control — acting as the 
   </tr>
 </table>
 
-
-
 ---
 
 ### ✅ **Schematic Layout**
 <p align="center">
-  <a href="https://github.com/shikha92366/Rocket-Avionics/tree/main/Easy%20Eda%20Schematic%20Layout" target="_blank">
-    <button style="background-color:#4CAF50;color:white;padding:10px 20px;border:none;border-radius:4px;font-size:16px;">
-      View Schematic Layout (EasyEDA)
-    </button>
-  </a>
+  <strong> Schematic Layout</strong><br>
+  <img src="https://github.com/user-attachments/assets/6a2e35ce-8be6-441f-b7b4-406eb7045418" width="800" alt="PCB Layout">
 </p>
 
 ---
 
 ### ✅ **PCB Layout**
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shikha92366/Rocket-Avionics/refs/heads/main/Easy%20Eda%20Schematic%20Layout/pcb_layout.jpg" width="600" alt="PCB Layout">
+  <strong> Front Side — LCB Layout</strong><br>
+  <img src="https://github.com/user-attachments/assets/294bf507-81b6-4d42-baf7-20eb7912f4e8" width="600" alt="PCB Layout Front Side">
 </p>
 
----
+<p align="center">
+  <strong> Back Side — LCB Layout</strong><br>
+  <img src="https://github.com/user-attachments/assets/6c6b0eb6-2008-45cc-924f-d10c2f5a9f01" width="600" alt="PCB Layout Back Side">
+</p>
+
 
 ## ⚡ Power and Event Control  
 
