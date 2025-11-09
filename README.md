@@ -83,7 +83,7 @@ It manages real-time telemetry, navigation, and event control — acting as the 
 
 ### ✅ **Video Demonstration**
 <p align="center">
-  <a href="<!-- paste your video link here -->" target="_blank">
+  <a href="https://github.com/shikha92366/Rocket-Avionics/blob/main/Easy%20Eda%20Schematic%20Layout/rocket%20avionics%20working%20video.mp4" target="_blank">
     <button style="background-color:#4CAF50;color:white;padding:10px 20px;border:none;border-radius:4px;font-size:16px;">
       Watch Working Video
     </button>
