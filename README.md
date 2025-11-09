@@ -6,8 +6,15 @@
 <h3 align="center">🛰️ <b>Team Sudarshan</b> || <b>IN-SPACe Rocket Competition</b></h3>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/243cc12c-3af6-42d1-a547-a28f60496a19" width="400" alt="Rocket Avionics System PCB"/>
+  <img src="https://github.com/user-attachments/assets/11e0f0eb-7174-423f-8078-54dcfa9ea0b1" width="800" alt="PCB Layout">
 </p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/636068fc-2877-4061-b266-db485e8bb244" width="800" alt="PCB Layout">
+</p>
+
+
+
 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/Platform-Raspberry%20Pi%20Pico%202-orange?style=for-the-badge"></a>
@@ -144,12 +151,13 @@ It manages real-time telemetry, navigation, and event control — acting as the 
 
 **Team Sudarshan**
 
-- Shikha  
-- Riya Verma  
-- Lavitra Sahu  
-- Rahul Kumar  
-- Arya Mishra  
-- Mohd Faiz  
+- [Shikha](https://www.linkedin.com/in/shikha2006/)
+- [Riya Verma](https://www.linkedin.com/in/riya-verma-641230317/)
+- [Lavitra Sahu](https://techarcanist.com)
+- [Rahul Kumar](https://www.linkedin.com/in/rahul-kumar-rk212004/)
+- [Arya Mishra](https://www.linkedin.com/in/arya-mishra-43307525a/)
+- [Mohd Faiz](https://www.linkedin.com/in/mohd-faiz-710661353/)
+
 
 <p align="center">
   <a href="https://inspace.gov.in/" target="_blank">
