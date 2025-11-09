@@ -105,7 +105,7 @@ It manages real-time telemetry, navigation, and event control — acting as the 
 
 ### ✅ **PCB Layout**
 <p align="center">
-  <img src="<!-- paste your PCB layout image here -->" width="600" alt="PCB Layout">
+  <img src="https://raw.githubusercontent.com/shikha92366/Rocket-Avionics/refs/heads/main/Easy%20Eda%20Schematic%20Layout/pcb_layout.jpg" width="600" alt="PCB Layout">
 </p>
 
 ---
