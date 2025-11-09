@@ -81,14 +81,24 @@ It manages real-time telemetry, navigation, and event control — acting as the 
 
 ## 🛠️ Working
 
-### ✅ **Video Demonstration**
-<p align="center">
-  <a href="https://github.com/shikha92366/Rocket-Avionics/blob/main/Easy%20Eda%20Schematic%20Layout/rocket%20avionics%20working%20video.mp4" target="_blank">
-    <button style="background-color:#4CAF50;color:white;padding:10px 20px;border:none;border-radius:4px;font-size:16px;">
-      Watch Working Video
-    </button>
-  </a>
-</p>
+###✅ Video Demonstration</h3>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <video src="https://github.com/user-attachments/assets/cf414885-033f-448b-868e-9f14b6d3c2b7" controls width="420"></video>
+      <br>
+      <em>🚀 Rocket Avionics - Working Demo</em>
+    </td>
+    <td align="center">
+      <video src="https://github.com/user-attachments/assets/c4f33a09-d41b-44c0-82b4-766b4d96774f" controls width="420"></video>
+      <br>
+      <em>🛰️ Rocket Avionics - GCS Demo</em>
+    </td>
+  </tr>
+</table>
+
+
 
 ---
 
